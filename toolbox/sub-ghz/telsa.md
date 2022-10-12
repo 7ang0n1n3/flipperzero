@@ -16,3 +16,5 @@
 
 ### Two Saved Telsa Signal Files ###
 ![Sub-GHz Saved Vehicles Telsa Files Menu](https://github.com/7ang0n1n3/flipperzero/blob/main/toolbox/sub-ghz/images/sub-ghz-vehicles-telsa-files.png)
+
+Select one of the file by pressing the middle select button and press again to transmit the signal.
