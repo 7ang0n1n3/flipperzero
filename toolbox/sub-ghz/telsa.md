@@ -1,6 +1,8 @@
 # Telsa #
 
 ## These steps are based on the Rouge Master Firmware ##
+If the telsa files are not in the firmware, the files can be download from here :
+https://github.com/MuddledBox/FlipperZeroSub-GHz/tree/main/Vehicles/Tesla
 
 ### Sub-Ghz Module ###
 ![Sub-GHz Menu](https://github.com/7ang0n1n3/flipperzero/blob/main/toolbox/sub-ghz/images/sub-ghz.png)
