@@ -1,4 +1,4 @@
-# Telsa #
+# Telsa Charge Port#
 
 ## These steps are based on the Rouge Master Firmware ##
 If the telsa files are not in the firmware, the files can be download from here :
