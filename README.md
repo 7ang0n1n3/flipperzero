@@ -33,7 +33,7 @@ Custom firmware unlocks that restriction.
 
 https://flipper.pingywon.com
 
-![RougeMaster](https://github.com/7ang0n1n3/flipperzero/blob/main/assets/ougemaster.gif)
+![RougeMaster](https://github.com/7ang0n1n3/flipperzero/blob/main/assets/rougemaster.gif)
 
 
 ### Unleashed ###
