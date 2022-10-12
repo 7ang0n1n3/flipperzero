@@ -25,15 +25,15 @@ https://flipperzero.one/update
 # Custom Firmwares #
 
 There are a few out there, these two are pretty stable.
-(Personally use RougeMaster)
+(Personally use RogueMaster)
 The offical firmware is region locked due to local regulations.
 Custom firmware unlocks that restriction.
 
-### Rouge Master ###
+### Rogue Master ###
 
 https://flipper.pingywon.com
 
-![RougeMaster](https://github.com/7ang0n1n3/flipperzero/blob/main/assets/rougemaster.gif)
+![RogueMaster](https://github.com/7ang0n1n3/flipperzero/blob/main/assets/rougemaster.gif)
 
 
 ### Unleashed ###
