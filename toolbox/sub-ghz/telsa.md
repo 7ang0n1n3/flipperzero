@@ -2,4 +2,4 @@
 
 
 
-[Main](README.md)
+[Main](flipperzero/README.md)
