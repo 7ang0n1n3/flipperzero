@@ -50,6 +50,10 @@ https://github.com/DarkFlippers/unleashed-firmware
 
 [Hardware : ESP8266](ESP8266/README.md)
 
+# Technical Documents #
+
+[Hardware : ESP8266](tech_specs/tech_specs.md)
+
 # Notes #
 
 When installing or upgrading the firmware. 
