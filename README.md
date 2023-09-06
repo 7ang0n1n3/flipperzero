@@ -22,7 +22,7 @@ macOS / Windows / Linux / iOS (beta) / Android (beta) supported
 https://flipperzero.one/update
 
 
-# Custom Firmwares #
+# Custom Firmware #
 
 There are a few out there, these three are pretty stable.
 (Personally use Xtreme Firmware)
@@ -32,6 +32,12 @@ Custom firmware unlocks that restriction.
 ### Xtreme Firmware ####
 
 https://flipper-xtre.me/
+
+Complied version that include Apple Bluetooth Device spammer
+
+Update using the Flipper Application
+
+[Download](assets/flipper-z-f7-update-XFW-DEV_Apple_BLE.tgz)
 
 ### Rogue Master ###
 
