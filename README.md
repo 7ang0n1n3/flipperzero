@@ -24,26 +24,24 @@ https://flipperzero.one/update
 
 # Custom Firmwares #
 
-There are a few out there, these two are pretty stable.
-(Personally use RogueMaster)
-The offical firmware is region locked due to local regulations.
+There are a few out there, these three are pretty stable.
+(Personally use Xtreme Firmware)
+The official firmware is region locked due to local regulations.
 Custom firmware unlocks that restriction.
+
+### Xtreme Firmware ####
+
+https://flipper-xtre.me/
 
 ### Rogue Master ###
 
 https://flipper.pingywon.com
-
-![RogueMaster](https://github.com/7ang0n1n3/flipperzero/blob/main/assets/rougemaster.gif)
 
 
 ### Unleashed ###
 
 https://github.com/DarkFlippers/unleashed-firmware
 
-
-### Xtreme Firmware ####
-
-https://flipper-xtre.me/
 
 
 # Toolbox #
