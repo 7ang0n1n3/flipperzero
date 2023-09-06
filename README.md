@@ -12,6 +12,11 @@ Persoanlly purchased via eBay (YES, it will cost more)
 
 https://www.ebay.com/sch/i.html?_nkw=flipper+zero&_sop=12
 
+# 3D printed case #
+
+https://www.printables.com/model/564025-flipper-zero-case/files
+
+Created by zR_CrackiiN (Donate if found useful)
 
 # Software #
 
