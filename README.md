@@ -46,7 +46,7 @@ Update using the Flipper Application
 
 ### Rogue Master ###
 
-https://flipper.pingywon.com
+https://github.com/RogueMaster
 
 
 ### Unleashed ###
