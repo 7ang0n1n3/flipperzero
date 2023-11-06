@@ -34,6 +34,22 @@ https://www.printables.com/model/564025-flipper-zero-case/files
 
 Created by zR_CrackiiN (Donate if found useful)
 
+# Custom Case via PCBWay #
+
+https://www.pcbway.com/project/shareproject/Flipper_clear_shell_5a57b5ee.html
+
+Form options
+
+Material : Resin
+Type of Resin : UTR-8100 (transparent)
+Color : Transparent (Spray varnish) for a clear look or Matte diffuse for a frost look
+Surface finish : None for clear/frosted or choose a color
+Threads and Tapped Holes : No
+Inserts : No
+Parts assembly : No
+Check both Printing risk
+Created by zR_CrackiiN (Donate if found useful)
+
 # Software #
 
 Download and install FlipperZero Software (Not required, but handy in covert operations)
@@ -51,6 +67,8 @@ The official firmware is region locked due to local regulations.
 Custom firmware unlocks that restriction.
 
 ### Xtreme Firmware ####
+
+The referenced firmware is highly regarded within its community for its robustness and is known for incorporating the latest features.
 
 https://flipper-xtre.me/
 
