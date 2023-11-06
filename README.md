@@ -16,11 +16,15 @@ One of the hottest new gadgets from 2022 and beyond.
 
 # Hardware # 
 
+Global
 https://shop.flipperzero.one
+
+Japan
+https://www.joom.com/geek/ja/stores/62f64f81a96fa268df9eaa2e
 
 If they don't ship to your country or out of stock.
 Check out re-seller sites.
-Persoanlly purchased via eBay (YES, it will cost more)
+Personally purchased via eBay (YES, it will cost more)
 
 https://www.ebay.com/sch/i.html?_nkw=flipper+zero&_sop=12
 
