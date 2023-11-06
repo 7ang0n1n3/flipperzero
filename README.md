@@ -40,14 +40,17 @@ https://www.pcbway.com/project/shareproject/Flipper_clear_shell_5a57b5ee.html
 
 Form options
 
-Material : Resin
-Type of Resin : UTR-8100 (transparent)
-Color : Transparent (Spray varnish) for a clear look or Matte diffuse for a frost look
-Surface finish : None for clear/frosted or choose a color
-Threads and Tapped Holes : No
-Inserts : No
-Parts assembly : No
+|Option | Selection|
+|-------|:--------:|
+|Material | Resin|
+|Type of Resin | UTR-8100 (transparent)|
+|Color | Transparent (Spray varnish) for a clear look or Matte diffuse for a frost look|
+|Surface finish | None for clear/frosted or choose a color|
+|Threads and Tapped Holes | No |
+|Inserts | No |
+|Parts assembly | No |
 Check both Printing risk
+
 Created by zR_CrackiiN (Donate if found useful)
 
 # Software #
