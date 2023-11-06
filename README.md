@@ -12,7 +12,7 @@
 ```
 # FlipperZero Information (Japan Based) #
 
-One of the hottest new gadgets in 2022. 
+One of the hottest new gadgets from 2022 and beyond. 
 
 # Hardware # 
 
